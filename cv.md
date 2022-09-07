@@ -1,14 +1,14 @@
 # Aleksey Chetvergov
 _Junior Frontend Developer_  
 
-### Contact information
-**Phone:** +7(977)-341-37-85  
+### Contact information  
 **E-mail:** sitroq@gmail.com  
 **Telegram:** @dxwzq  
 
 
 ### About Me
-My goal is to become a full stack programmer. To do this, I'm studying back-end development in python, now I want to study the front-end.
+My goal is to become a full stack programmer. To do this, I'm studying back-end development in python, now I want to study the front-end.  
+I consider diligence, purposefulness, attentiveness and curiosity to be my strengths.
 
 ### Skills
 - HTML, CSS
@@ -26,8 +26,9 @@ function sum(a, b) {
 let result = sum(1, 2);
 alert( result );
 ```
-
+### Education
+Moscow Polytechnic University, Economist
 ### Courses
-Stepic, Hyperskill
+Stepic
 ### Languages
 - English - Intermediate
