@@ -26,6 +26,8 @@ function sum(a, b) {
 let result = sum(1, 2);
 alert( result );
 ```
+### Experience
+Not yet...  
 ### Education
 Moscow Polytechnic University, Economist
 ### Courses
